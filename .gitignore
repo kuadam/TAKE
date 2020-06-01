@@ -32,6 +32,9 @@ MvcNews/MvcNews/obj/
 
 *.user
 
+SPA/StudentsApi/.vscode/
+*bin/
+*obj/
 CompanyApi/.vs/
 
 CompanyApi/CompanyApi/bin/
